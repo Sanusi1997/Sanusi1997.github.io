@@ -1,0 +1,27 @@
+body,html{
+    background-position: center;
+    background-image: url(header.jpg);
+    background-size: cover;
+    height: 100%;
+
+}
+p{
+    color: white;
+    font-size: 25px;
+    font-family: 'Montserrat' sans-serif;
+    margin-top: 180px;
+}
+.btn{
+     border-radius: 300px;
+}
+.btn-primary{
+    background-color: rgb(243, 97, 97);
+    border-color: rgb(243, 97, 97) ;
+    font-size: 12px;
+    font-family: 'Montserrat'sans-serif;
+    margin-top: 200px;
+}
+.btn-primary:hover{
+    background-color: rgb(243, 97, 97);
+    border-color: rgb(243, 97, 97) ;
+}
